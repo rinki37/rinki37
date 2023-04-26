@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rinki37 (Rinki).
-- 👀 I’m interested in C, C++, Java, Rust, HTML, CSS, Javascript, Blockchain
-
+- 👀 I’m interested in C, C++, C#, Java, Rust, HTML, CSS, Javascript, Blockchain.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on Rust and Near Blockchain.
 - 📫 Reach me on my LinkedIn ID @rinki37946 ( https://www.linkedin.com/in/rinki37946)
