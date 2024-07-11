@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rinki37 (Rinki).
-- 👀 I’m interested in C#, .NET MVC, HTML, CSS, Javascript, Blockchain, and Rust.
+- 👀 I’m interested in C#, .NET MVC, WPF, HTML, CSS, Javascript, Blockchain, and Rust.
 - 🌱 I’m currently working on C#, .NET MVC.
 - 💞️ I’m looking to collaborate on Rust and Blockchain.
 - 📫 Reach me on my LinkedIn ID @rinki37946 ( https://www.linkedin.com/in/rinki37946)
